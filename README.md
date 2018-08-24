@@ -4,6 +4,6 @@ To demonstrate: Removal of some negative information from co-association matrix 
 
 - RUN RemoveNegativeInfo.m to demonstrate
 
-- RUN CluEnsemble.m to clustering
+- RUN CluEnsemble.m to cluster
 
 Ncut.zip is the normalized cut, Datasets.zip is the 16 datasets and ground truth labels. The project is tested in WIN7 (64bit) and MATLAB2012.
