@@ -9,4 +9,5 @@ To demonstrate: Removal of some negative information from co-association matrix 
 The project was tested in WIN7 (64bits) and MATLAB2012a.
 
 Reference:
+
 Caiming Zhong et al., Ensemble clustering based on evidence extracted from the co-association matrix, Pattern Recognition, Volume 92, August 2019, Pages 93-106
